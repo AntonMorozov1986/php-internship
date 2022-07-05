@@ -1,0 +1,12 @@
+{
+    "name": "anton/php-internship",
+    "description": "learning php",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "anton"
+        }
+    ],
+    "require": {}
+}
